@@ -10,7 +10,7 @@
     <artifactId>pomelo-menagerie</artifactId>
     <packaging>jar</packaging>
 
-    <name>Pomelo::Menagerie</name>
+    <name>Pomelo::Distributed::Menagerie</name>
     <url>https://github.com/andyadc/pomelo</url>
 
     <properties>
