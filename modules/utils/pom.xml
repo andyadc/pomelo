@@ -10,8 +10,8 @@
     <artifactId>pomelo-utils</artifactId>
     <packaging>jar</packaging>
 
-    <name>pomelo-utils</name>
-    <url>http://maven.apache.org</url>
+    <name>Pomelo::Module::Utils</name>
+    <url>https://github.com/andyadc/pomelo</url>
 
     <properties>
         <guava.version>22.0</guava.version>

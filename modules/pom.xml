@@ -8,6 +8,7 @@
     <artifactId>pomelo-modules</artifactId>
     <packaging>pom</packaging>
     <version>1.0.0</version>
+    <name>Pomelo::Module</name>
 
     <modules>
         <module>utils</module>
