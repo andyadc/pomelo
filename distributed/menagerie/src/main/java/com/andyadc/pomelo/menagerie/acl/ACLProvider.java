@@ -1,4 +1,4 @@
-package com.andyadc.pomelo.menagerie.utils;
+package com.andyadc.pomelo.menagerie.acl;
 
 import org.apache.zookeeper.data.ACL;
 
