@@ -14,9 +14,9 @@
     <url>https://github.com/andyadc/pomelo</url>
 
     <properties>
-        <guava.version>22.0</guava.version>
+        <guava.version>23.0</guava.version>
         <commons-lang3.version>3.6</commons-lang3.version>
-        <fastjson.version>1.2.35</fastjson.version>
+        <fastjson.version>1.2.36</fastjson.version>
         <orika.version>1.5.1</orika.version>
         <slf4j.version>1.7.25</slf4j.version>
         <junit.version>4.12</junit.version>
