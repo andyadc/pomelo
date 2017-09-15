@@ -12,6 +12,7 @@
 
     <modules>
         <module>utils</module>
+        <module>commons</module>
     </modules>
     
 </project>
