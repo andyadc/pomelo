@@ -5,7 +5,7 @@ package com.andyadc.pomelo.utils;
  *
  * @author andaicheng
  */
-public class ByteUtil {
+public final class ByteUtil {
 
     private ByteUtil() {
         throw new UnsupportedOperationException();
