@@ -1,13 +1,11 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
-    <parent>
-        <artifactId>pomelo-modules</artifactId>
-        <groupId>com.andyadc</groupId>
-        <version>1.0.0</version>
-    </parent>
+
     <modelVersion>4.0.0</modelVersion>
 
+    <groupId>com.andyadc</groupId>
     <artifactId>pomelo-utils</artifactId>
+    <version>1.0.0</version>
     <packaging>jar</packaging>
 
     <name>Pomelo::Module::Utils</name>
@@ -16,7 +14,7 @@
     <properties>
         <guava.version>23.0</guava.version>
         <commons-lang3.version>3.6</commons-lang3.version>
-        <fastjson.version>1.2.36</fastjson.version>
+        <fastjson.version>1.2.38</fastjson.version>
         <orika.version>1.5.1</orika.version>
         <slf4j.version>1.7.25</slf4j.version>
         <junit.version>4.12</junit.version>

@@ -16,7 +16,7 @@ import java.util.List;
  * @author andaicheng
  * @version 2017/4/23
  */
-public class BeanMapper {
+public final class BeanMapper {
 
     private static MapperFacade mapper;
 
